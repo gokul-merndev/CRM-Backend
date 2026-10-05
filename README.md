@@ -61,8 +61,7 @@ backend/
 │   ├── routes/              # Express route routers
 │   ├── services/            # CRM business logic & database queries
 │   └── validation/          # Joi schemas
-├── scripts/
-│   └── seed.js              # Demo seed data script
+│                 
 ├── server.js                # Server entry point & listener
 ├── package.json
 └── .env.example
